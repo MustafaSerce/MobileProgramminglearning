@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"5190090000027508687",
+		"product_id":"736430079244716978",
+		"client_id":"504372255053066624",
+		"client_secret":"758D5ADFD9A784369D29AF79B4F5EE911C5B24757843F89495BEA44F70FBF08C",
+		"project_id":"736430079244716978",
+		"app_id":"103362545",
+		"api_key":"CgB6e3x9uKcTddzOvIdgKKK0jRjBMb5PxvFFoYtsy5KkNUR+SgpXE4vn8XWjZy3ENOES5BlG0WrzADLE6ckcD03P",
+		"package_name":"com.example.accountkitapp"
+	},
+	"configuration_version":"1.0"
+}
